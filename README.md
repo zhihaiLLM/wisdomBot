@@ -31,7 +31,7 @@
 
 我们的方法结合了布鲁姆教育分类法，另外，我们在推理过程中开发了两种检索增强方法，提高了模型响应的准确性和专业性，整个流程概图如下：
 
-![image](https://github.com/zhihaiLLM/wisdomBot/assets/142485850/ea5c766c-432d-4800-bb50-6013695b7c37)
+![image](https://github.com/zhihaiLLM/wisdomBot/assets/142485850/ea5c766c-432d-4800-bb50-6013695b7c37) 
 
 
 
