@@ -1,6 +1,7 @@
 # 智海-三乐
 
-![image](https://github.com/zhihaiLLM/wisdomBot/assets/142485850/212f3b61-a429-4ec6-a906-f172f25203f1)
+![e5f3b8f93d485b4b5fa471f376157d7](https://github.com/zhihaiLLM/wisdomBot/assets/142485850/19aeefe5-5a4d-43bb-b10e-00653e88ab57)
+
 
 
 ## 🔥最新动态
@@ -31,7 +32,8 @@
 
 我们的方法结合了布鲁姆教育分类法，另外，我们在推理过程中开发了两种检索增强方法，提高了模型响应的准确性和专业性，整个流程概图如下：
 
-![image](https://github.com/zhihaiLLM/wisdomBot/assets/142485850/ea5c766c-432d-4800-bb50-6013695b7c37) 
+![3aa0aaf86a2edca2a41e3bfe429ce10](https://github.com/zhihaiLLM/wisdomBot/assets/142485850/2a40d315-5b12-484b-b754-7da95988f0e8)
+
 
 
 
@@ -39,11 +41,13 @@
 
 
 我们的模型基座目前是[Qwen-7B](https://github.com/QwenLM/Qwen-7B)，在此基础上，进行无监督训练以及指令微调得到我们的模型**wisdomBot**，wisdomBot功能图如下：
-![image](https://github.com/zhihaiLLM/wisdomBot/assets/142485850/ace17965-15c3-47ce-9879-84bab57684ec)
+![bb92ac36868807e18e29374ec78950f](https://github.com/zhihaiLLM/wisdomBot/assets/142485850/cdc120c8-e1b5-43c9-b23e-1b1902302cbe)
+
 
 
 下面是我们模型的部分应用场景：
-![image](https://github.com/zhihaiLLM/wisdomBot/assets/142485850/d96686fe-1015-4d68-8106-fa7e4ba5756d)
+![9a921f12fb21af1bed180cbb6e27678](https://github.com/zhihaiLLM/wisdomBot/assets/142485850/c5ba75d8-bff6-45fe-bd6b-f4ba53624844)
+
 
 
 
